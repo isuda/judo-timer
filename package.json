@@ -2,6 +2,7 @@
   "name": "judo-timer",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "devDependencies": {
     "@types/react": "^16.0.34",
     "@types/react-native": "^0.51.9",
