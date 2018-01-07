@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Judo Timer",
+    "description": "A timer app for judo randori. Includes golden score and rest time",
+    "version": "0.0.1",
+    "orientation": "landscape",
+    "sdkVersion": "23.0.0",
+    "packagerOpts": {
+      "sourceExts": [
+        "ts",
+        "tsx"
+      ],
+      "transformer": "node_modules/react-native-typescript-transformer/index.js"
+    }
+  }
+}
